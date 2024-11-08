@@ -11,7 +11,7 @@ const Layout=()=>{
            <Outlet/>
 
            <hr size="4" color="red"/>
-           www.xxx sexy video.com
+           www.com
         
         </>
     )
